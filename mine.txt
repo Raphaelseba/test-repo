@@ -1,0 +1,4 @@
+diskpart press enter,
+list disk press enter,
+select disk 0,1,2 etc enter,
+clean
